@@ -16,7 +16,6 @@ Alarm/
 ├── index.html
 ├── style.css
 ├── script.js
-├── alarm.mp3
 ├── jothika.jpg
 └── README.md
 
